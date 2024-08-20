@@ -18,7 +18,7 @@ h1 {
 #favorites {
     padding-left: 50px;
     background-color: aqua;
-    border: #0056b3;
+    border: 2px dashed #0056b3;
 }
 
 p {
