@@ -1,3 +1,6 @@
+title {
+    font-family: "Garamond", serif;
+}
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -20,6 +23,7 @@ p {
 a {
     color: #0056b3;
     text-decoration: none;
+    padding-left: 10px;
 }
 
 a:hover {
